@@ -21,10 +21,8 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Instalar MkDocs
-        run: |
-          pip install --upgrade pip
-          pip install mkdocs mkdocs-material
+      - name: Instalar dependências do MkDocs
+        run: pip install -r requirements.txt
 
-      - name: Build e Deploy com MkDocs
+      - name: Build e deploy com MkDocs
         run: mkdocs gh-deploy --force
