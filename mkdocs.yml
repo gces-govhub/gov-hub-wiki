@@ -1,0 +1,36 @@
+site_name: GCES 1º/2025 - GovHub
+repo_url: https://github.com/gces-govhub/gov-hub-wiki                                           |
+theme:
+
+  name: 'material'
+  
+  
+  palette:
+  
+    scheme: 'slate'
+    
+    primary: 'indigo'
+    
+    accent: 'indigo'
+    
+  features:
+  - navigation.tabs         
+  icon:
+    logo: 'material/library'
+    repo: 'material/library'
+  
+
+  markdown_extensions:
+  - markdown.extensions.admonition:
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.toc:
+      permalink: true
+
+
+nav:
+  - Início: index.md
+  #- Roadmap:
+      #- Disciplina: roadmap/roadmap-disciplina.md
+      #- Contribuição Técnica: roadmap/roadmap-contribuicao.md
+  - Papéis de Governança: papeis.md
