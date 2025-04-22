@@ -19,8 +19,7 @@ theme:
 
 nav:
   - Início: index.md
-  #- Roadmap:
-      #- Disciplina: roadmap/roadmap-disciplina.md
-      #- Contribuição Técnica: roadmap/roadmap-contribuicao.md
+  - Roadmap:
+      Disciplina: roadmap/roadmap-gces.md
   - Papéis de Governança: papeis.md
   - Sprints: sprints/sprints.md
