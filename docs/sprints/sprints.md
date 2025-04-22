@@ -23,8 +23,23 @@
   *Apresentação do projeto Gov Hub, visão geral da arquitetura e escopo para contribuição estudantil.*
 
 - **📅 09/04** – Reunião do time + Professora
+
   *Discussão sobre a estrutura da disciplina, responsabilidades, ambiente local, dúvidas técnicas iniciais.*
 
 - **📅 11/04** – Reunião técnica do grupo  
   *Alinhamento sobre as tarefas possíveis dentro dos repositórios, discussão sobre como dividir papéis e tarefas entre os membros.*
 ---
+
+
+## 🚀 Sprint 2
+
+**Período:** 11/04/2025 a 18/04/2025  
+**Duração:** 7 dias  
+**Status:** ✅ Encerrada
+
+### 🧾 Objetivos da Sprint
+
+- Iniciar estruturação da documentação da disciplina
+- Definir e documentar os papéis de governança entre os membros do grupo
+- Criar as primeiras issues da Release I
+- Estudo da integração entre GitLab e GitHub para espelhar os repositórios
