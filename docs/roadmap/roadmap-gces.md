@@ -1,69 +1,52 @@
-# 📘 Roadmap da Disciplina – GCES 1º/2025
+# Roadmap da Disciplina – GCES 1º/2025
 
-Este roadmap organiza as atividades do grupo ao longo da disciplina **Gerência de Configuração e Evolução de Software (GCES)**, incluindo reuniões, sprints, responsabilidades e entregas.
-
----
-
-## 🏁 Sprint 1 – Integração inicial
-
-📅 **Período:** 04/04/2025 a 11/04/2025  
-🎯 **Objetivo:** Entender o projeto GovHub, alinhar o grupo, rodar o ambiente local.
-
-### ✅ Entregas:
-- [x] Reunião com responsável do projeto (04/04)
-- [x] Rodar aplicação localmente
-- [x] Alinhamento do time e da disciplina
-- [x] Primeiras discussões sobre as tarefas
-- [x] Ata da reunião do dia 09/04
-- [x] Ata da reunião do dia 11/04
+Este roadmap foi construído com base na estrutura e nas entregas da disciplina **Gerência de Configuração e Evolução de Software (GCES)**. O objetivo é visualizar de forma clara os marcos principais e entregas técnicas que serão realizadas ao longo do semestre.
 
 ---
 
-## 🔁 Sprint 2 – Organização e planejamento da entrega
+## Visão Geral
 
-📅 **Período:** 19/04/2025 a ...  
-🎯 **Objetivo:** Estruturar a organização GitHub, definir papéis, iniciar a documentação da Release I.
+A disciplina está dividida em três releases. Cada etapa do projeto contribui com valor incremental, e o progresso é validado por feedbacks e revisões.
 
-### ✅ Entregas planejadas:
-- [ ] Criar nova organização GitHub (`gces-govhub`)
-- [ ] Realizar fork dos repositórios principais
-- [ ] Criar estrutura da Wiki da disciplina
-- [ ] Definir papéis de governança
-- [ ] Iniciar estruturação do roadmap técnico
-- [ ] Criar README e templates padrão
+### Releases
+
+- **Release I (28/04/2025)**: Setup técnico, documentação, definição de governança, prova de conceito.
+- **Release II (02/06/2025)**: Refino do escopo e implementação inicial da contribuição.
+- **Release III (25/06/2025)**: Entrega final, revisão, post-mortem e encerramento.
 
 ---
 
-## 📦 Release I – Entrega de software livre e infraestrutura
+## O que está contemplado
 
-📅 **Entrega prevista:** até XX/04/2025  
-🎯 **Objetivo:** Entregar artefatos de software livre + estrutura de projeto rodando + roadmap técnico/documental.
-
-### 📋 Checklist:
-
-#### 📚 Documentação
-- [ ] `README.md` completo nos repositórios
-- [ ] `CODE_OF_CONDUCT.md`
-- [ ] `CONTRIBUTING.md`
-- [ ] Templates de Issue e Pull Request
-- [ ] GitHub Pages no repositório `gov-hub`
-
-#### 🛠️ Técnica
-- [ ] Ambiente com Docker funcionando
-- [ ] Docker Compose para dev
-- [ ] GitHub Actions com CI básico
-- [ ] Todos os membros conseguiram subir o ambiente
-
-#### 🎯 Organização
-- [ ] Roadmap da disciplina finalizado
-- [ ] Roadmap da contribuição técnica iniciado
-- [ ] Papéis de governança definidos
-- [ ] Atas das reuniões registradas
+- Organização das Sprints e Releases
+- Planejamento técnico (CI/CD, ambientes, versionamento)
+- Teste de conceito com IA
+- Documentação técnica e de comunidade
+- Governança do grupo
+- Entregas com feedbacks
+- Pós-mortem do projeto
 
 ---
 
-## 🧠 Contribuição no projeto
+## 📅 Cronograma em Formato Visual
 
-Durante a disciplina, a equipe irá desenvolver uma solução baseada em **IA (Agent AI)** para auxiliar na **integração de duas bases de dados**, onde o principal ponto de cruzamento vem de campos abertos de observação. O objetivo é evitar o uso de regex e implementar uma solução baseada em linguagem natural para detectar correspondências entre os registros.
+Você pode visualizar abaixo o roadmap:
 
-Essa entrega será evoluída nas próximas sprints e finalizada até a Release II.
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600" src="https://embed.figma.com/board/aqDyCZO8Sjd8inKCNY9l4Y/Roadmap-disciplina-GCES?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+
+---
+
+## Como foi feito
+
+O roadmap foi desenhado no Figma com base:
+
+- No [calendário da disciplina](https://github.com/FGA-GCES/A-disciplina/blob/master/plano-ensino-carla.md)
+- No [checklist de entregas](https://github.com/FGA-GCES/A-disciplina/blob/master/cheklists.md)
+- Nas atividades práticas realizadas pelo grupo
+- Nos feedbacks da professora e nos encontros semanais
+
+---
+
+## 📝 Observações Finais
+
+Este roadmap é um artefato vivo: será atualizado conforme as entregas forem evoluindo e novas decisões forem tomadas ao longo do semestre.
