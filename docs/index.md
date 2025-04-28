@@ -7,8 +7,8 @@ Aqui você encontrará:
 - 🧑‍🤝‍🧑 Organização do time e papéis de governança
 - 📅 Planejamento de sprints
 - 📝 Atas de reuniões
-- 📘 Roadmap da Disciplina e de Contribuição
-- ✅ Checklist das entregas da disciplina (Release I, Release II)
+- 📘 Roadmap da Disciplina
+- ✅ Checklist das entregas da disciplina (Release I, Release II e Release III)
 - 📌 Decisões técnicas e organização da contribuição no projeto
 
 ---

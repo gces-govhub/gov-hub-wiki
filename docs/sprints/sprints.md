@@ -43,3 +43,27 @@
 - Definir e documentar os papéis de governança entre os membros do grupo
 - Criar as primeiras issues da Release I
 - Estudo da integração entre GitLab e GitHub para espelhar os repositórios
+
+## 🏁 Sprint 3
+
+**Período:** 18/04/2025 a 25/04/2025  
+**Duração:** 7 dias  
+**Status:** ✅ Encerrada
+
+### 🧾 Objetivos da Sprint
+
+- Entender os objetivos e o escopo da disciplina GCES
+- Conhecer o projeto Gov Hub e sua estrutura geral
+- Rodar a aplicação 
+- Alinhar expectativas e responsabilidades iniciais entre os membros
+- Estabelecer comunicação interna e canais de organização
+- Primeira reunião com um dos responsáveis do projeto real
+
+### 🤝 Reuniões realizadas
+
+- **📅 19/04** – Reunião do time  
+  *Definição e distribuição de tarefas, acompanhamento do que já foi feito, validação do roadmap.*
+
+- **📅 24/04** – Reunião do time
+
+  *Acompanhamento do time, redistribuição de tarefas, fechamento de PRs, refinametos para a Release I.*
