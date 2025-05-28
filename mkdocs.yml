@@ -26,5 +26,5 @@ nav:
       Relatório: release_1/relatorio.md
       Checklist: release_1/checklist.md
   - Release II: 
-    Relatório: release_2/relatorio.md
-    Checklist: release_2/checklist.md
+      Relatório: release_2/relatorio.md
+      Checklist: release_2/checklist.md

@@ -1,4 +1,4 @@
-# ✅ Checklist do projeto de Gerência de Configuração Evolução de Software - Release I 28/04/2025 
+# ✅ Checklist do projeto de Gerência de Configuração Evolução de Software - Release I 02/05/2025 
 
 ### 📦 Gerência e Controle de Versão
 - [x] GitHub Actions / GitLab CI configurado com:
