@@ -22,7 +22,9 @@ nav:
   - Roadmap:
       Disciplina: roadmap/roadmap-gces.md
   - Papéis de Governança: papeis.md
-  - Sprints: sprints/sprints.md
   - Release I: 
       Relatório: release_1/relatorio.md
       Checklist: release_1/checklist.md
+  - Release II: 
+    Relatório: release_2/relatorio.md
+    Checklist: release_2/checklist.md
