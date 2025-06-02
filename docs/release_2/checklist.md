@@ -1,8 +1,4 @@
-# ✅ Checklist do projeto de Gerência de Configuração Evolução de Software - Release I 02/05/2025 
-
-### 📦 Gerência e Controle de Versão
-- [x] GitHub Actions / GitLab CI configurado com:
-    - [x] Validação de segurança e dependências (ex: Dependabot, Snyk)
+# ✅ Checklist do projeto de Gerência de Configuração Evolução de Software - Release I 02/06/2025 
 
 ---
 
